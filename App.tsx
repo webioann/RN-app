@@ -29,7 +29,7 @@ function App(): JSX.Element {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <View style={styles.container}>
-          <Text style={styles.title}>Hello World with commit</Text>
+          <Text style={styles.title}>Hello World!!!</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
