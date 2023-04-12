@@ -29,7 +29,7 @@ function App(): JSX.Element {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <View style={styles.container}>
-          <Text style={styles.title}>Hello with mobile world</Text>
+          <Text style={styles.title}>Hello World</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'fff',
   },
   title: {
-    color: 'green',
+    color: 'blue',
     fontSize: 30,
     fontWeight: '900',
     letterSpacing: 3.9,
